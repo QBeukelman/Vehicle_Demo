@@ -2,7 +2,7 @@
 
 ### About
 
-This iOS application is a prototype to explore the capabilities of the Swift SceneKit and Vehicle Physics. A player can select one of two vehicles and roam the map. The map includes solid objects such as the roads and buildings, and collectables such as floating coins. All 3D assets were created using Blender.
+An iOS game application prototype to explore the capabilities of the Swift SceneKit and Vehicle Physics. A player can select one of two vehicles and roam the map. The map includes solid objects such as the roads and buildings, and collectables such as floating coins. All 3D assets were created using Blender.
 
 <br />
 
