@@ -1,9 +1,14 @@
-//
-//  GameViewController.swift
-//  SceneKit Game
-//
-//  Created by Quentin Beukelman on 28/03/2022.
-//
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        ::::::::            */
+/*   GameViewController.swift                           :+:    :+:            */
+/*                                                     +:+                    */
+/*   By: quentinbeukelman <quentinbeukelman@stud      +#+                     */
+/*                                                   +#+                      */
+/*   Created: 2022/03/28 10:23:30 by quentinbeuk   #+#    #+#                 */
+/*   Updated: 2022/04/08 15:50:04 by quentinbeuk   ########   odam.nl         */
+/*                                                                            */
+/* ************************************************************************** */
 
 import UIKit
 import SceneKit
